@@ -1,0 +1,3 @@
+package vanity1
+
+// This file purely exists for dep, which fails to import projects wiithout Go files in the root dir...
